@@ -1,0 +1,75 @@
+
+
+p {
+    font-size: 20px ;
+    font-family: serif;
+    margin:0 50px; 
+}
+
+
+nav {
+    background-color: #961414;
+        padding:15px;
+        text-align: center;
+}
+
+nav ul {
+    display:inline;
+        list-style-type: none;
+}
+
+nav li {
+    display:inline;
+        padding: 5px 5px 5px 5px;
+        margin:0;
+        color:#9ca1e2;
+}
+
+.delete-button
+{
+    color:red;
+    margin-left:10;
+}
+
+.edit-delete-div
+{
+    margin-left: 30;
+    margin-top:5;
+}
+
+.delete-icon
+{
+    margin-bottom:10;
+    height:18;
+    alt:"Poubelle";
+}
+
+table.timetable
+{
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 3;
+}
+
+.day-title
+{
+    height:40;
+    width: 20%;
+    text-align:center;
+    border: 1px solid white;
+    background-color: #ebebeb
+}
+
+.cours
+{
+    height:100;
+    text-align: center;
+    border: 1px solid white;
+    color: white;
+    background-color: #e684ac;
+}
+
+.cours-time
+{
+    font-weight:lighter;
+}
